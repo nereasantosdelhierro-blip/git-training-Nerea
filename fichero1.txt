@@ -1,3 +1,2 @@
-Esto es una nueva funcionalidad que estoy creando en una rama nueva y las otras líneas no tienen sentido ahora,
-Nerea
-Modificado desde IntelliJ
+Ahora estamos en la primera línea del
+fichero pero en la nueva rama feature/nerea
